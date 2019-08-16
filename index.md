@@ -2,7 +2,7 @@
   <link rel="icon" href="https://xics.github.io/XICS favicon.ico" type="image/x-icon">
 </head>
 
-**XICS | Information and Computer Science**
+**XICS Information and Computer Science**
 
 **Welcome to XICS**
 
