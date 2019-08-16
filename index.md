@@ -6,13 +6,12 @@ We are updating this Site.
 
 Please visit us again.
 
-If You have any questions,
+If You have any questions, contact us.
 
-feel free to contact us.
+**Contact**
 
-### Contact
 URL: [https://xics.github.io](https://xics.github.io)
 
 E-Mail: <xics.github@gmail.com>
 
-Copyright © 2019 XICS<img src="http://xics.github.io/XICS.png" width="80" />
+Copyright © 2019 XICS <img src="http://xics.github.io/XICS.png" width="80" />
