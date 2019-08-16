@@ -1,15 +1,14 @@
-## XICS
-**X INFORMATION AND COMPUTER SCIENCE**
+**XICS | INFORMATION AND COMPUTER SCIENCE**
 
-Welcome to XICS
+**Welcome to XICS**
 
 We are updating this Site.
 
-Please visit us again later.
+Please visit us again.
 
 If You have any questions,
 
-feel free ti contact us
+feel free to contact us.
 
 ### Contact Webmaster
 URL: https://xics.github.io
