@@ -1,17 +1,18 @@
-## Welcome to XICS
-X INFORMATION AND COMPUTER SCIENCE
+## XICS
+**X INFORMATION AND COMPUTER SCIENCE**
 
-[Editor on GitHub](https://github.com/XICS/xics.github.io/edit/master/index.md)
+Welcome to XICS
 
-[Jekyll](https://jekyllrb.com/)
+We are updating this Site.
 
+Please visit us again later.
 
-### Support or Contact
-[GitHub Documentation](https://help.github.com/categories/github-pages-basics/)
+If You have any questions,
 
-[GitHub Contact support](https://github.com/contact)
+feel free ti contact us
+
 ### Contact Webmaster
-E-Mail: xics.github@gmail.com
+E-Mail: <xics.github@gmail.com>
 
 URL: https://xics.github.io
 
