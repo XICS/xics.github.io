@@ -12,8 +12,8 @@ If You have any questions,
 feel free ti contact us
 
 ### Contact Webmaster
-E-Mail: <xics.github@gmail.com>
-
 URL: https://xics.github.io
+
+E-Mail: <xics.github@gmail.com>
 
 Copyright © 2019 XICS
