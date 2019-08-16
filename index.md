@@ -1,3 +1,4 @@
+# [xics.github.io](https://xics.github.io/)
 **XICS | INFORMATION AND COMPUTER SCIENCE**
 
 **Welcome to XICS**
