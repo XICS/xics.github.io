@@ -1,6 +1,6 @@
-  <head>
+<head>
   <link rel="icon" href="https://xics.github.io/XICS favicon.ico" type="image/x-icon">
-  </head>
+</head>
 
 **XICS | Information and Computer Science**
 
