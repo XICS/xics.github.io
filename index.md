@@ -1,3 +1,5 @@
+  curl https://git.io/ -i -F "url=https://github.com/xics.github.io" -F "code=xicsE"
+  
   <head>
   <link rel="icon" href="https://xics.github.io/XICS favicon.ico" type="image/x-icon">
   </head>
