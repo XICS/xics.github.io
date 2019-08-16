@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" href="XICS favicon.ico">
-</head>
-
 **XICS Information and Computer Science**
 
 **Welcome to XICS**
