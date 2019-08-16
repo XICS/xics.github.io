@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" href="https://xics.github.io/XICS favicon.ico">
+  <link rel="shortcut icon" href="XICS favicon.ico">
 </head>
 
 **XICS Information and Computer Science**
