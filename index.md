@@ -1,5 +1,5 @@
 # [xics.github.io](https://xics.github.io/)
-**XICS | INFORMATION AND COMPUTER SCIENCE**
+**XICS | Information and Computer Science
 
 **Welcome to XICS**
 
